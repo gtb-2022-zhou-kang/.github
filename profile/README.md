@@ -3,6 +3,7 @@
 Hi, My name is Zhoukang.
 
 This is my favourite avatar.
+
 <img src="assets/Avatar.jpg" alt="Avatar" width="50%" />
 
 This is me in school:
